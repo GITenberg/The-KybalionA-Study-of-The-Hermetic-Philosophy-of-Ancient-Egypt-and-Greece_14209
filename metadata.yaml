@@ -1,0 +1,51 @@
+_repo: The-KybalionA-Study-of-The-Hermetic-Philosophy-of-Ancient-Egypt-and-Greece_14209
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Three Initiates
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '5407'
+    url: http://www.gutenberg.org/2009/agents/5407
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a4862
+description: "The Kybalion: Hermetic Philosophy, originally published in 1908 by a\
+  \ person or persons under the pseudonym of \"the Three Initiates\", is a book claiming\
+  \ to be the essence of the teachings of Hermes Trismegistus.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2004-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14209'
+  wikidata: Q664103
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hermetism'
+- !lcsh 'Occultism'
+- !lcc 'BF'
+title: 'The Kybalion
+
+  A Study of The Hermetic Philosophy of Ancient Egypt and Greece'
+url: http://www.gutenberg.org/ebooks/14209
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kybalion
+- https://fr.wikipedia.org/wiki/Le_Kybalion
+- https://ar.wikipedia.org/wiki/%D9%83%D9%8A%D8%A8%D8%A7%D9%84%D9%8A%D9%88%D9%86
+- https://pt.wikipedia.org/wiki/Caibalion
+- https://pl.wikipedia.org/wiki/Kybalion
+- https://pt.wikiquote.org/wiki/Caibalion
+- https://cs.wikipedia.org/wiki/Kybalion
+- https://de.wikipedia.org/wiki/Kybalion
+- https://es.wikipedia.org/wiki/Kybali%C3%B3n
+- https://sk.wikipedia.org/wiki/Kybalion
+- https://en.wikipedia.org/wiki/The_Kybalion
+- https://it.wikipedia.org/wiki/Il_Kybalion
+- https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%B1%D0%B0%D0%BB%D1%96%D0%BE%D0%BD
+- https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B1%D0%B0%D0%BB%D0%B8%D0%BE%D0%BD
+- https://tr.wikipedia.org/wiki/Kybalion
